@@ -2,4 +2,5 @@
 
 members = [
     "main",
+    "rust_sub_module",
 ]
